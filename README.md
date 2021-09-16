@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/404798025.svg)](https://zenodo.org/badge/latestdoi/404798025)
+
 ****
 
 Data and R code accompanying:
