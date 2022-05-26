@@ -14,11 +14,11 @@ Authors: [Dominique G. Maucieri](https://dominiquemaucieri.com), and [Julia K. B
 
 [Scripts Folder](scripts/)
 
-* [soft_coral_cover_models.R](data/soft_coral_cover_models.R) for the models used in the manuscript analysis
+* [soft_coral_cover_models.R](scripts/soft_coral_cover_models.R) for the models used in the manuscript analysis
 
-* [sample_sizes.R](data/soft_coral_cover_models.R) for the script to create Table S1
+* [sample_sizes.R](scripts/soft_coral_cover_models.R) for the script to create Table S1
 
-* [figures.R](data/figures.R) for the script to create the figures
+* [figures.R](scripts/figures.R) for the script to create the figures
 
 
 [Data Folder](data/)
@@ -45,4 +45,4 @@ Authors: [Dominique G. Maucieri](https://dominiquemaucieri.com), and [Julia K. B
 
 * [Literature_Review.xlsx](data/Literature_Review.xlsx) raw data collected for literature review of soft coral data from recent heatwaves
 
-	*```README```: tab contains definishtions of all columns and colors used as well as summaries of data collected
+	*```README```: tab contains definitions of all columns and colors used as well as summaries of data collected
